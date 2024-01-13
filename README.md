@@ -5,7 +5,7 @@ This project focuses on using simple deep learning algorithm for the detection o
 
 Various factors contribute to the onset of anemia, including deficiencies in Vitamin K/B12, medical treatments like chemotherapy, and genetic predispositions. The project aims to predict the presence of anemia by thoroughly evaluating CBC data, employing simple machine learning techniques.
 
-##1. Introduction
+## 1. Introduction
 
 It is possible to predict anemia by a CBC-Complete Blood count (aka Full blood count). Here, the following parameters have been used.
 * Haemoglobin concentration (The amount of Haemoglobin in blood) - Normaly 14 g/dL
