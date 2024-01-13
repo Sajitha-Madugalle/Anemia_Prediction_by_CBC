@@ -9,8 +9,8 @@ Various factors contribute to the onset of anemia, including deficiencies in Vit
 
 It is possible to predict anemia by a CBC-Complete Blood count (aka Full blood count). Here, the following parameters have been used.
 * Haemoglobin concentration (The amount of Haemoglobin in blood) - Normaly 14 g/dL
-*Mean corpuscular haemoglobin (MCH) average amount of haemoglobin in each red blood cell. (Normaly 30pg)
-*Mean corpuscular haemoglobin concentration (MCHC) Normaly 32g/dL
-*Mean corpuscular volume (MCV) noramaly 100g/dL
+* Mean corpuscular haemoglobin (MCH) average amount of haemoglobin in each red blood cell. (Normaly 30pg)
+* Mean corpuscular haemoglobin concentration (MCHC) Normaly 32g/dL
+* Mean corpuscular volume (MCV) noramaly 100g/dL
 
 for the deep learning, Tensor flow has been used.
